@@ -170,7 +170,7 @@ chatApp.addEventListener('click', function () {
         type: 'message',
         data: textData,
         username: localStorage.getItem('chatUserName'),
-        key: 'eDBE76deU7L0H9mEBgxUKVR0VCnq0XBd'
+        key: 'YOUR KEY HERE'
       }
 
       // Send the msg object as a JSON-formatted string.
